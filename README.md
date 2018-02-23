@@ -44,3 +44,4 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * [iruhl/sort-prop-types](docs/rules/sort-prop-types.md): Enforce propTypes declarations alphabetical sorting
+* [iruhl/no-props-reassign](docs/rules/no-props-reassign.md): Enforce propTypes declarations alphabetical sorting
